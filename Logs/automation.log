@@ -1,0 +1,828 @@
+2023-06-21 19:00:11,053 - root - INFO - *************Test_001_Login***************
+2023-06-21 19:00:11,053 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-21 19:00:15,306 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-21 19:00:16,712 - root - INFO - ***********Verifying Login test***************
+2023-06-21 19:00:24,274 - root - INFO - ***********Login test is passed***************
+2023-06-21 19:13:59,946 - root - INFO - *************Test_001_Login***************
+2023-06-21 19:13:59,946 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-21 19:14:04,442 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-21 19:14:06,209 - root - INFO - ***********Verifying Login test***************
+2023-06-21 19:14:14,252 - root - INFO - ***********Login test is passed***************
+2023-06-21 19:17:32,129 - root - INFO - ***********Verifying Login test***************
+2023-06-21 19:17:32,336 - root - INFO - *************Test_001_Login***************
+2023-06-21 19:17:32,339 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-21 19:17:36,017 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-21 19:17:40,081 - root - INFO - ***********Login test is passed***************
+2023-06-21 20:04:33,937 - selenium.webdriver.common.driver_finder - WARNING - Unable to obtain driver using Selenium Manager: internet explorer is not a valid browser.  Choose one of: ['chrome', 'firefox', 'edge', 'MicrosoftEdge', 'ie']
+2023-06-21 20:04:33,937 - selenium.webdriver.common.driver_finder - WARNING - Unable to obtain driver using Selenium Manager: internet explorer is not a valid browser.  Choose one of: ['chrome', 'firefox', 'edge', 'MicrosoftEdge', 'ie']
+2023-06-21 20:05:58,561 - root - INFO - ***********Verifying Login test***************
+2023-06-21 20:05:58,561 - root - INFO - *************Test_001_Login***************
+2023-06-21 20:05:58,561 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-21 20:06:02,301 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-21 20:06:06,588 - root - INFO - ***********Login test is passed***************
+2023-06-21 20:14:04,403 - root - INFO - ***********Verifying Login test***************
+2023-06-21 20:14:04,410 - root - INFO - *************Test_001_Login***************
+2023-06-21 20:14:04,410 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-21 20:14:09,029 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-21 20:14:13,082 - root - INFO - ***********Login test is passed***************
+2023-06-21 20:18:48,251 - root - INFO - *************Test_001_Login***************
+2023-06-21 20:18:48,251 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-21 20:18:48,278 - root - INFO - ***********Verifying Login test***************
+2023-06-21 20:18:56,826 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-21 20:19:10,450 - root - INFO - ***********Login test is passed***************
+2023-06-21 20:27:25,713 - root - INFO - *************Test_001_Login***************
+2023-06-21 20:27:25,713 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-21 20:27:25,762 - root - INFO - ***********Verifying Login test***************
+2023-06-21 20:27:29,313 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-21 20:27:33,022 - root - INFO - ***********Login test is passed***************
+2023-06-21 21:14:19,775 - root - INFO - ***********Verifying Login test***************
+2023-06-21 21:15:49,493 - root - INFO - ***********Verifying Login test***************
+2023-06-21 21:16:01,016 - root - INFO - ***Pass***
+2023-06-21 21:22:17,819 - root - INFO - ***********Verifying Login test***************
+2023-06-21 21:22:29,587 - root - INFO - ***Pass***
+2023-06-21 21:30:36,525 - root - INFO - ***********Verifying Login test***************
+2023-06-21 21:30:48,575 - root - INFO - ***Pass***
+2023-06-21 21:33:13,916 - root - INFO - ***********Verifying Login test***************
+2023-06-21 21:33:26,548 - root - INFO - ***Pass***
+2023-06-21 21:33:33,669 - root - INFO - ***Pass***
+2023-06-21 21:38:09,449 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2023-06-21 21:38:09,449 - root - INFO - ******* Starting Login DDT Test **********
+2023-06-21 21:38:21,374 - root - INFO - **** passed ****
+2023-06-21 21:38:28,540 - root - INFO - **** passed ****
+2023-06-21 21:38:34,113 - root - INFO - **** passed ****
+2023-06-21 21:38:40,098 - root - INFO - **** passed ****
+2023-06-21 21:38:40,098 - root - INFO - ******* DDT Login test passed **********
+2023-06-21 21:38:40,201 - root - INFO - ******* End of Login DDT Test **********
+2023-06-21 21:38:40,201 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-06-21 23:48:55,087 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-21 23:49:04,469 - root - INFO - **************Login Successful******************
+2023-06-21 23:49:04,469 - root - INFO - ************Starting Add Customer Test****************
+2023-06-21 23:53:02,262 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-21 23:53:08,661 - root - INFO - **************Login Successful******************
+2023-06-21 23:53:08,661 - root - INFO - ************Starting Add Customer Test****************
+2023-06-21 23:53:11,867 - root - INFO - ************Providing customer info**************
+2023-06-21 23:53:22,460 - root - INFO - *************Saving customer info****************
+2023-06-21 23:53:22,460 - root - INFO - **************Add customer validation started**************
+2023-06-21 23:58:28,060 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-21 23:58:35,621 - root - INFO - **************Login Successful******************
+2023-06-21 23:58:35,621 - root - INFO - ************Starting Add Customer Test****************
+2023-06-21 23:58:38,673 - root - INFO - ************Providing customer info**************
+2023-06-22 00:05:18,220 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 00:05:27,551 - root - INFO - **************Login Successful******************
+2023-06-22 00:05:27,551 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 00:05:31,364 - root - INFO - ************Providing customer info**************
+2023-06-22 00:14:17,832 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 00:14:24,608 - root - INFO - **************Login Successful******************
+2023-06-22 00:14:24,608 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 00:14:27,523 - root - INFO - ************Providing customer info**************
+2023-06-22 00:14:38,188 - root - INFO - *************Saving customer info****************
+2023-06-22 00:14:38,188 - root - INFO - **************Add customer validation started**************
+2023-06-22 00:15:12,766 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 00:15:19,677 - root - INFO - **************Login Successful******************
+2023-06-22 00:15:19,677 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 00:15:23,396 - root - INFO - ************Providing customer info**************
+2023-06-22 00:15:31,553 - root - INFO - *************Saving customer info****************
+2023-06-22 00:15:31,553 - root - INFO - **************Add customer validation started**************
+2023-06-22 00:16:14,472 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 00:16:20,791 - root - INFO - **************Login Successful******************
+2023-06-22 00:16:20,791 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 00:16:24,413 - root - INFO - ************Providing customer info**************
+2023-06-22 00:16:32,435 - root - INFO - *************Saving customer info****************
+2023-06-22 00:16:32,435 - root - INFO - **************Add customer validation started**************
+2023-06-22 00:22:11,940 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 00:22:19,500 - root - INFO - **************Login Successful******************
+2023-06-22 00:22:19,500 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 00:22:22,459 - root - INFO - ************Providing customer info**************
+2023-06-22 00:22:30,905 - root - INFO - *************Saving customer info****************
+2023-06-22 00:22:30,906 - root - INFO - **************Add customer validation started**************
+2023-06-22 00:28:04,577 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 00:28:10,520 - root - INFO - **************Login Successful******************
+2023-06-22 00:28:10,521 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 00:28:13,897 - root - INFO - ************Providing customer info**************
+2023-06-22 00:28:22,003 - root - INFO - *************Saving customer info****************
+2023-06-22 00:28:22,004 - root - INFO - **************Add customer validation started**************
+2023-06-22 00:38:13,965 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 00:38:19,257 - root - INFO - **************Login Successful******************
+2023-06-22 00:38:19,257 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 00:38:22,302 - root - INFO - ************Providing customer info**************
+2023-06-22 00:38:31,290 - root - INFO - *************Saving customer info****************
+2023-06-22 00:38:31,290 - root - INFO - **************Add customer validation started**************
+2023-06-22 00:39:11,303 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 00:39:18,919 - root - INFO - **************Login Successful******************
+2023-06-22 00:39:18,919 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 00:39:22,191 - root - INFO - ************Providing customer info**************
+2023-06-22 00:39:31,257 - root - INFO - *************Saving customer info****************
+2023-06-22 00:39:31,257 - root - INFO - **************Add customer validation started**************
+2023-06-22 00:39:31,313 - root - INFO - *********Add customer Test Passed***********
+2023-06-22 00:39:31,470 - root - INFO - ************Ending Home Page Title Test************
+2023-06-22 00:45:30,618 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 00:45:38,491 - root - INFO - **************Login Successful******************
+2023-06-22 00:45:38,491 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 00:45:42,389 - root - INFO - ************Providing customer info**************
+2023-06-22 00:45:51,375 - root - INFO - *************Saving customer info****************
+2023-06-22 00:45:51,375 - root - INFO - **************Add customer validation started**************
+2023-06-22 00:45:51,407 - root - INFO - *********Add customer Test Passed***********
+2023-06-22 00:45:51,535 - root - INFO - ************Ending Home Page Title Test************
+2023-06-22 00:48:37,289 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 00:48:45,774 - root - INFO - **************Login Successful******************
+2023-06-22 00:48:45,774 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 00:48:49,838 - root - INFO - ************Providing customer info**************
+2023-06-22 00:48:59,048 - root - INFO - *************Saving customer info****************
+2023-06-22 00:48:59,048 - root - INFO - **************Add customer validation started**************
+2023-06-22 00:48:59,087 - root - INFO - *********Add customer Test Passed***********
+2023-06-22 00:48:59,215 - root - INFO - ************Ending Home Page Title Test************
+2023-06-22 01:00:14,206 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 01:00:21,022 - root - INFO - **************Login Successful******************
+2023-06-22 01:00:21,022 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 01:00:24,338 - root - INFO - ************Providing customer info**************
+2023-06-22 01:01:32,979 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 01:01:40,078 - root - INFO - **************Login Successful******************
+2023-06-22 01:01:40,078 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 01:01:43,888 - root - INFO - ************Providing customer info**************
+2023-06-22 01:01:53,290 - root - INFO - *************Saving customer info****************
+2023-06-22 01:01:53,290 - root - INFO - **************Add customer validation started**************
+2023-06-22 01:01:53,354 - root - INFO - *********Add customer Test Passed***********
+2023-06-22 01:01:53,498 - root - INFO - ************Ending Home Page Title Test************
+2023-06-22 07:50:44,728 - selenium.webdriver.common.driver_finder - WARNING - Unable to obtain driver using Selenium Manager: internet explorer is not a valid browser.  Choose one of: ['chrome', 'firefox', 'edge', 'MicrosoftEdge', 'ie']
+2023-06-22 07:51:26,022 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 07:51:33,289 - root - INFO - **************Login Successful******************
+2023-06-22 07:51:33,289 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 07:51:36,905 - root - INFO - ************Providing customer info**************
+2023-06-22 07:52:52,478 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 07:53:01,136 - root - INFO - **************Login Successful******************
+2023-06-22 07:53:01,136 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 07:53:04,502 - root - INFO - ************Providing customer info**************
+2023-06-22 07:53:13,519 - root - INFO - *************Saving customer info****************
+2023-06-22 07:53:13,519 - root - INFO - **************Add customer validation started**************
+2023-06-22 07:53:13,567 - root - INFO - *********Add customer Test Passed***********
+2023-06-22 07:53:13,729 - root - INFO - ************Ending Home Page Title Test************
+2023-06-22 08:40:22,766 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-06-22 08:40:31,038 - root - INFO - ************* Login succesful **********
+2023-06-22 08:40:31,038 - root - INFO - ******* Starting Search Customer By Email **********
+2023-06-22 08:40:33,435 - root - INFO - ************* searching customer by emailID **********
+2023-06-22 08:46:31,196 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-06-22 08:46:38,350 - root - INFO - ************* Login succesful **********
+2023-06-22 08:46:38,350 - root - INFO - ******* Starting Search Customer By Email **********
+2023-06-22 08:46:40,390 - root - INFO - ************* searching customer by emailID **********
+2023-06-22 08:52:37,100 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-06-22 08:52:44,704 - root - INFO - ************* Login succesful **********
+2023-06-22 08:52:44,704 - root - INFO - ******* Starting Search Customer By Email **********
+2023-06-22 08:52:46,679 - root - INFO - ************* searching customer by emailID **********
+2023-06-22 08:53:59,569 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-06-22 08:54:07,287 - root - INFO - ************* Login succesful **********
+2023-06-22 08:54:07,287 - root - INFO - ******* Starting Search Customer By Email **********
+2023-06-22 08:54:09,206 - root - INFO - ************* searching customer by emailID **********
+2023-06-22 08:55:43,974 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-06-22 08:55:52,368 - root - INFO - ************* Login succesful **********
+2023-06-22 08:55:52,368 - root - INFO - ******* Starting Search Customer By Email **********
+2023-06-22 08:55:53,921 - root - INFO - ************* searching customer by emailID **********
+2023-06-22 08:55:59,211 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-06-22 08:58:38,689 - root - INFO - ************* SearchCustomerByName_005 **********
+2023-06-22 08:58:45,468 - root - INFO - ************* Login succesful **********
+2023-06-22 08:58:45,468 - root - INFO - ******* Starting Search Customer By Name **********
+2023-06-22 08:58:49,043 - root - INFO - ************* searching customer by Name **********
+2023-06-22 09:00:55,085 - root - INFO - ************* SearchCustomerByName_005 **********
+2023-06-22 09:01:02,120 - root - INFO - ************* Login succesful **********
+2023-06-22 09:01:02,121 - root - INFO - ******* Starting Search Customer By Name **********
+2023-06-22 09:01:08,335 - root - INFO - ************* searching customer by Name **********
+2023-06-22 09:01:13,683 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-06-22 09:01:35,513 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 09:01:35,513 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 09:01:35,513 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 09:01:35,513 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 09:01:35,513 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 09:01:45,246 - root - INFO - **************Login Successful******************
+2023-06-22 09:01:45,246 - root - INFO - **************Login Successful******************
+2023-06-22 09:01:45,246 - root - INFO - **************Login Successful******************
+2023-06-22 09:01:45,246 - root - INFO - **************Login Successful******************
+2023-06-22 09:01:45,246 - root - INFO - **************Login Successful******************
+2023-06-22 09:01:45,246 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 09:01:45,246 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 09:01:45,246 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 09:01:45,246 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 09:01:45,246 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 09:01:53,206 - root - INFO - ************Providing customer info**************
+2023-06-22 09:01:53,206 - root - INFO - ************Providing customer info**************
+2023-06-22 09:01:53,206 - root - INFO - ************Providing customer info**************
+2023-06-22 09:01:53,206 - root - INFO - ************Providing customer info**************
+2023-06-22 09:01:53,206 - root - INFO - ************Providing customer info**************
+2023-06-22 09:02:01,672 - root - INFO - *************Saving customer info****************
+2023-06-22 09:02:01,672 - root - INFO - *************Saving customer info****************
+2023-06-22 09:02:01,672 - root - INFO - *************Saving customer info****************
+2023-06-22 09:02:01,672 - root - INFO - *************Saving customer info****************
+2023-06-22 09:02:01,672 - root - INFO - *************Saving customer info****************
+2023-06-22 09:02:01,672 - root - INFO - **************Add customer validation started**************
+2023-06-22 09:02:01,672 - root - INFO - **************Add customer validation started**************
+2023-06-22 09:02:01,672 - root - INFO - **************Add customer validation started**************
+2023-06-22 09:02:01,672 - root - INFO - **************Add customer validation started**************
+2023-06-22 09:02:01,672 - root - INFO - **************Add customer validation started**************
+2023-06-22 09:02:01,694 - root - INFO - *********Add customer Test Passed***********
+2023-06-22 09:02:01,694 - root - INFO - *********Add customer Test Passed***********
+2023-06-22 09:02:01,694 - root - INFO - *********Add customer Test Passed***********
+2023-06-22 09:02:01,694 - root - INFO - *********Add customer Test Passed***********
+2023-06-22 09:02:01,694 - root - INFO - *********Add customer Test Passed***********
+2023-06-22 09:02:01,857 - root - INFO - ************Ending Home Page Title Test************
+2023-06-22 09:02:01,857 - root - INFO - ************Ending Home Page Title Test************
+2023-06-22 09:02:01,857 - root - INFO - ************Ending Home Page Title Test************
+2023-06-22 09:02:01,857 - root - INFO - ************Ending Home Page Title Test************
+2023-06-22 09:02:01,857 - root - INFO - ************Ending Home Page Title Test************
+2023-06-22 09:02:03,237 - root - INFO - *************Test_001_Login***************
+2023-06-22 09:02:03,237 - root - INFO - *************Test_001_Login***************
+2023-06-22 09:02:03,237 - root - INFO - *************Test_001_Login***************
+2023-06-22 09:02:03,237 - root - INFO - *************Test_001_Login***************
+2023-06-22 09:02:03,237 - root - INFO - *************Test_001_Login***************
+2023-06-22 09:02:03,237 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-22 09:02:03,237 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-22 09:02:03,237 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-22 09:02:03,237 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-22 09:02:03,237 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-22 09:02:07,404 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-22 09:02:07,404 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-22 09:02:07,404 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-22 09:02:07,404 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-22 09:02:07,404 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-22 09:02:08,763 - root - INFO - ***********Verifying Login test***************
+2023-06-22 09:02:08,763 - root - INFO - ***********Verifying Login test***************
+2023-06-22 09:02:08,763 - root - INFO - ***********Verifying Login test***************
+2023-06-22 09:02:08,763 - root - INFO - ***********Verifying Login test***************
+2023-06-22 09:02:08,763 - root - INFO - ***********Verifying Login test***************
+2023-06-22 09:02:15,966 - root - INFO - ***********Login test is passed***************
+2023-06-22 09:02:15,966 - root - INFO - ***********Login test is passed***************
+2023-06-22 09:02:15,966 - root - INFO - ***********Login test is passed***************
+2023-06-22 09:02:15,966 - root - INFO - ***********Login test is passed***************
+2023-06-22 09:02:15,966 - root - INFO - ***********Login test is passed***************
+2023-06-22 09:02:17,371 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2023-06-22 09:02:17,371 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2023-06-22 09:02:17,371 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2023-06-22 09:02:17,371 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2023-06-22 09:02:17,371 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2023-06-22 09:02:17,371 - root - INFO - ******* Starting Login DDT Test **********
+2023-06-22 09:02:17,371 - root - INFO - ******* Starting Login DDT Test **********
+2023-06-22 09:02:17,371 - root - INFO - ******* Starting Login DDT Test **********
+2023-06-22 09:02:17,371 - root - INFO - ******* Starting Login DDT Test **********
+2023-06-22 09:02:17,371 - root - INFO - ******* Starting Login DDT Test **********
+2023-06-22 09:02:29,217 - root - INFO - **** passed ****
+2023-06-22 09:02:29,217 - root - INFO - **** passed ****
+2023-06-22 09:02:29,217 - root - INFO - **** passed ****
+2023-06-22 09:02:29,217 - root - INFO - **** passed ****
+2023-06-22 09:02:29,217 - root - INFO - **** passed ****
+2023-06-22 09:02:36,782 - root - INFO - **** passed ****
+2023-06-22 09:02:36,782 - root - INFO - **** passed ****
+2023-06-22 09:02:36,782 - root - INFO - **** passed ****
+2023-06-22 09:02:36,782 - root - INFO - **** passed ****
+2023-06-22 09:02:36,782 - root - INFO - **** passed ****
+2023-06-22 09:02:42,874 - root - INFO - **** passed ****
+2023-06-22 09:02:42,874 - root - INFO - **** passed ****
+2023-06-22 09:02:42,874 - root - INFO - **** passed ****
+2023-06-22 09:02:42,874 - root - INFO - **** passed ****
+2023-06-22 09:02:42,874 - root - INFO - **** passed ****
+2023-06-22 09:02:48,803 - root - INFO - **** passed ****
+2023-06-22 09:02:48,803 - root - INFO - **** passed ****
+2023-06-22 09:02:48,803 - root - INFO - **** passed ****
+2023-06-22 09:02:48,803 - root - INFO - **** passed ****
+2023-06-22 09:02:48,803 - root - INFO - **** passed ****
+2023-06-22 09:02:48,804 - root - INFO - ******* DDT Login test passed **********
+2023-06-22 09:02:48,804 - root - INFO - ******* DDT Login test passed **********
+2023-06-22 09:02:48,804 - root - INFO - ******* DDT Login test passed **********
+2023-06-22 09:02:48,804 - root - INFO - ******* DDT Login test passed **********
+2023-06-22 09:02:48,804 - root - INFO - ******* DDT Login test passed **********
+2023-06-22 09:02:48,891 - root - INFO - ******* End of Login DDT Test **********
+2023-06-22 09:02:48,891 - root - INFO - ******* End of Login DDT Test **********
+2023-06-22 09:02:48,891 - root - INFO - ******* End of Login DDT Test **********
+2023-06-22 09:02:48,891 - root - INFO - ******* End of Login DDT Test **********
+2023-06-22 09:02:48,891 - root - INFO - ******* End of Login DDT Test **********
+2023-06-22 09:02:48,891 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-06-22 09:02:48,891 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-06-22 09:02:48,891 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-06-22 09:02:48,891 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-06-22 09:02:48,891 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-06-22 09:02:50,244 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-06-22 09:02:50,244 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-06-22 09:02:50,244 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-06-22 09:02:50,244 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-06-22 09:02:50,244 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-06-22 09:03:00,750 - root - INFO - ************* Login succesful **********
+2023-06-22 09:03:00,750 - root - INFO - ************* Login succesful **********
+2023-06-22 09:03:00,750 - root - INFO - ************* Login succesful **********
+2023-06-22 09:03:00,750 - root - INFO - ************* Login succesful **********
+2023-06-22 09:03:00,750 - root - INFO - ************* Login succesful **********
+2023-06-22 09:03:00,750 - root - INFO - ******* Starting Search Customer By Email **********
+2023-06-22 09:03:00,750 - root - INFO - ******* Starting Search Customer By Email **********
+2023-06-22 09:03:00,750 - root - INFO - ******* Starting Search Customer By Email **********
+2023-06-22 09:03:00,750 - root - INFO - ******* Starting Search Customer By Email **********
+2023-06-22 09:03:00,750 - root - INFO - ******* Starting Search Customer By Email **********
+2023-06-22 09:03:02,242 - root - INFO - ************* searching customer by emailID **********
+2023-06-22 09:03:02,242 - root - INFO - ************* searching customer by emailID **********
+2023-06-22 09:03:02,242 - root - INFO - ************* searching customer by emailID **********
+2023-06-22 09:03:02,242 - root - INFO - ************* searching customer by emailID **********
+2023-06-22 09:03:02,242 - root - INFO - ************* searching customer by emailID **********
+2023-06-22 09:03:07,515 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-06-22 09:03:07,515 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-06-22 09:03:07,515 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-06-22 09:03:07,515 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-06-22 09:03:07,515 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-06-22 09:03:08,857 - root - INFO - ************* SearchCustomerByName_005 **********
+2023-06-22 09:03:08,857 - root - INFO - ************* SearchCustomerByName_005 **********
+2023-06-22 09:03:08,857 - root - INFO - ************* SearchCustomerByName_005 **********
+2023-06-22 09:03:08,857 - root - INFO - ************* SearchCustomerByName_005 **********
+2023-06-22 09:03:08,857 - root - INFO - ************* SearchCustomerByName_005 **********
+2023-06-22 09:03:18,144 - root - INFO - ************* Login succesful **********
+2023-06-22 09:03:18,144 - root - INFO - ************* Login succesful **********
+2023-06-22 09:03:18,144 - root - INFO - ************* Login succesful **********
+2023-06-22 09:03:18,144 - root - INFO - ************* Login succesful **********
+2023-06-22 09:03:18,144 - root - INFO - ************* Login succesful **********
+2023-06-22 09:03:18,145 - root - INFO - ******* Starting Search Customer By Name **********
+2023-06-22 09:03:18,145 - root - INFO - ******* Starting Search Customer By Name **********
+2023-06-22 09:03:18,145 - root - INFO - ******* Starting Search Customer By Name **********
+2023-06-22 09:03:18,145 - root - INFO - ******* Starting Search Customer By Name **********
+2023-06-22 09:03:18,145 - root - INFO - ******* Starting Search Customer By Name **********
+2023-06-22 09:03:21,815 - root - INFO - ************* searching customer by Name **********
+2023-06-22 09:03:21,815 - root - INFO - ************* searching customer by Name **********
+2023-06-22 09:03:21,815 - root - INFO - ************* searching customer by Name **********
+2023-06-22 09:03:21,815 - root - INFO - ************* searching customer by Name **********
+2023-06-22 09:03:21,815 - root - INFO - ************* searching customer by Name **********
+2023-06-22 09:03:27,144 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-06-22 09:03:27,144 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-06-22 09:03:27,144 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-06-22 09:03:27,144 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-06-22 09:03:27,144 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-06-22 09:39:52,792 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 09:39:52,792 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 09:39:52,792 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 09:39:52,792 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 09:39:52,792 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 09:39:59,726 - root - INFO - **************Login Successful******************
+2023-06-22 09:39:59,726 - root - INFO - **************Login Successful******************
+2023-06-22 09:39:59,726 - root - INFO - **************Login Successful******************
+2023-06-22 09:39:59,726 - root - INFO - **************Login Successful******************
+2023-06-22 09:39:59,726 - root - INFO - **************Login Successful******************
+2023-06-22 09:39:59,727 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 09:39:59,727 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 09:39:59,727 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 09:39:59,727 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 09:39:59,727 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 09:40:02,812 - root - INFO - ************Providing customer info**************
+2023-06-22 09:40:02,812 - root - INFO - ************Providing customer info**************
+2023-06-22 09:40:02,812 - root - INFO - ************Providing customer info**************
+2023-06-22 09:40:02,812 - root - INFO - ************Providing customer info**************
+2023-06-22 09:40:02,812 - root - INFO - ************Providing customer info**************
+2023-06-22 09:40:10,972 - root - INFO - *************Saving customer info****************
+2023-06-22 09:40:10,972 - root - INFO - *************Saving customer info****************
+2023-06-22 09:40:10,972 - root - INFO - *************Saving customer info****************
+2023-06-22 09:40:10,972 - root - INFO - *************Saving customer info****************
+2023-06-22 09:40:10,972 - root - INFO - *************Saving customer info****************
+2023-06-22 09:40:10,972 - root - INFO - **************Add customer validation started**************
+2023-06-22 09:40:10,972 - root - INFO - **************Add customer validation started**************
+2023-06-22 09:40:10,972 - root - INFO - **************Add customer validation started**************
+2023-06-22 09:40:10,972 - root - INFO - **************Add customer validation started**************
+2023-06-22 09:40:10,972 - root - INFO - **************Add customer validation started**************
+2023-06-22 09:40:10,988 - root - INFO - *********Add customer Test Passed***********
+2023-06-22 09:40:10,988 - root - INFO - *********Add customer Test Passed***********
+2023-06-22 09:40:10,988 - root - INFO - *********Add customer Test Passed***********
+2023-06-22 09:40:10,988 - root - INFO - *********Add customer Test Passed***********
+2023-06-22 09:40:10,988 - root - INFO - *********Add customer Test Passed***********
+2023-06-22 09:40:11,135 - root - INFO - ************Ending Home Page Title Test************
+2023-06-22 09:40:11,135 - root - INFO - ************Ending Home Page Title Test************
+2023-06-22 09:40:11,135 - root - INFO - ************Ending Home Page Title Test************
+2023-06-22 09:40:11,135 - root - INFO - ************Ending Home Page Title Test************
+2023-06-22 09:40:11,135 - root - INFO - ************Ending Home Page Title Test************
+2023-06-22 09:40:12,640 - root - INFO - *************Test_001_Login***************
+2023-06-22 09:40:12,640 - root - INFO - *************Test_001_Login***************
+2023-06-22 09:40:12,640 - root - INFO - *************Test_001_Login***************
+2023-06-22 09:40:12,640 - root - INFO - *************Test_001_Login***************
+2023-06-22 09:40:12,640 - root - INFO - *************Test_001_Login***************
+2023-06-22 09:40:12,640 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-22 09:40:12,640 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-22 09:40:12,640 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-22 09:40:12,640 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-22 09:40:12,640 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-22 09:40:15,967 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-22 09:40:15,967 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-22 09:40:15,967 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-22 09:40:15,967 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-22 09:40:15,967 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-22 09:40:17,322 - root - INFO - ***********Verifying Login test***************
+2023-06-22 09:40:17,322 - root - INFO - ***********Verifying Login test***************
+2023-06-22 09:40:17,322 - root - INFO - ***********Verifying Login test***************
+2023-06-22 09:40:17,322 - root - INFO - ***********Verifying Login test***************
+2023-06-22 09:40:17,322 - root - INFO - ***********Verifying Login test***************
+2023-06-22 09:40:23,254 - root - INFO - ***********Login test is passed***************
+2023-06-22 09:40:23,254 - root - INFO - ***********Login test is passed***************
+2023-06-22 09:40:23,254 - root - INFO - ***********Login test is passed***************
+2023-06-22 09:40:23,254 - root - INFO - ***********Login test is passed***************
+2023-06-22 09:40:23,254 - root - INFO - ***********Login test is passed***************
+2023-06-22 09:40:24,631 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2023-06-22 09:40:24,631 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2023-06-22 09:40:24,631 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2023-06-22 09:40:24,631 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2023-06-22 09:40:24,631 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2023-06-22 09:40:24,631 - root - INFO - ******* Starting Login DDT Test **********
+2023-06-22 09:40:24,631 - root - INFO - ******* Starting Login DDT Test **********
+2023-06-22 09:40:24,631 - root - INFO - ******* Starting Login DDT Test **********
+2023-06-22 09:40:24,631 - root - INFO - ******* Starting Login DDT Test **********
+2023-06-22 09:40:24,631 - root - INFO - ******* Starting Login DDT Test **********
+2023-06-22 09:40:36,544 - root - INFO - **** passed ****
+2023-06-22 09:40:36,544 - root - INFO - **** passed ****
+2023-06-22 09:40:36,544 - root - INFO - **** passed ****
+2023-06-22 09:40:36,544 - root - INFO - **** passed ****
+2023-06-22 09:40:36,544 - root - INFO - **** passed ****
+2023-06-22 09:40:43,702 - root - INFO - **** passed ****
+2023-06-22 09:40:43,702 - root - INFO - **** passed ****
+2023-06-22 09:40:43,702 - root - INFO - **** passed ****
+2023-06-22 09:40:43,702 - root - INFO - **** passed ****
+2023-06-22 09:40:43,702 - root - INFO - **** passed ****
+2023-06-22 09:40:49,261 - root - INFO - **** passed ****
+2023-06-22 09:40:49,261 - root - INFO - **** passed ****
+2023-06-22 09:40:49,261 - root - INFO - **** passed ****
+2023-06-22 09:40:49,261 - root - INFO - **** passed ****
+2023-06-22 09:40:49,261 - root - INFO - **** passed ****
+2023-06-22 09:40:56,047 - root - INFO - **** passed ****
+2023-06-22 09:40:56,047 - root - INFO - **** passed ****
+2023-06-22 09:40:56,047 - root - INFO - **** passed ****
+2023-06-22 09:40:56,047 - root - INFO - **** passed ****
+2023-06-22 09:40:56,047 - root - INFO - **** passed ****
+2023-06-22 09:40:56,047 - root - INFO - ******* DDT Login test passed **********
+2023-06-22 09:40:56,047 - root - INFO - ******* DDT Login test passed **********
+2023-06-22 09:40:56,047 - root - INFO - ******* DDT Login test passed **********
+2023-06-22 09:40:56,047 - root - INFO - ******* DDT Login test passed **********
+2023-06-22 09:40:56,047 - root - INFO - ******* DDT Login test passed **********
+2023-06-22 09:40:56,176 - root - INFO - ******* End of Login DDT Test **********
+2023-06-22 09:40:56,176 - root - INFO - ******* End of Login DDT Test **********
+2023-06-22 09:40:56,176 - root - INFO - ******* End of Login DDT Test **********
+2023-06-22 09:40:56,176 - root - INFO - ******* End of Login DDT Test **********
+2023-06-22 09:40:56,176 - root - INFO - ******* End of Login DDT Test **********
+2023-06-22 09:40:56,176 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-06-22 09:40:56,176 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-06-22 09:40:56,176 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-06-22 09:40:56,176 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-06-22 09:40:56,176 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-06-22 09:40:57,572 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-06-22 09:40:57,572 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-06-22 09:40:57,572 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-06-22 09:40:57,572 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-06-22 09:40:57,572 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-06-22 09:41:03,533 - root - INFO - ************* Login succesful **********
+2023-06-22 09:41:03,533 - root - INFO - ************* Login succesful **********
+2023-06-22 09:41:03,533 - root - INFO - ************* Login succesful **********
+2023-06-22 09:41:03,533 - root - INFO - ************* Login succesful **********
+2023-06-22 09:41:03,533 - root - INFO - ************* Login succesful **********
+2023-06-22 09:41:03,533 - root - INFO - ******* Starting Search Customer By Email **********
+2023-06-22 09:41:03,533 - root - INFO - ******* Starting Search Customer By Email **********
+2023-06-22 09:41:03,533 - root - INFO - ******* Starting Search Customer By Email **********
+2023-06-22 09:41:03,533 - root - INFO - ******* Starting Search Customer By Email **********
+2023-06-22 09:41:03,533 - root - INFO - ******* Starting Search Customer By Email **********
+2023-06-22 09:41:04,927 - root - INFO - ************* searching customer by emailID **********
+2023-06-22 09:41:04,927 - root - INFO - ************* searching customer by emailID **********
+2023-06-22 09:41:04,927 - root - INFO - ************* searching customer by emailID **********
+2023-06-22 09:41:04,927 - root - INFO - ************* searching customer by emailID **********
+2023-06-22 09:41:04,927 - root - INFO - ************* searching customer by emailID **********
+2023-06-22 09:41:10,218 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-06-22 09:41:10,218 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-06-22 09:41:10,218 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-06-22 09:41:10,218 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-06-22 09:41:10,218 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-06-22 09:41:11,586 - root - INFO - ************* SearchCustomerByName_005 **********
+2023-06-22 09:41:11,586 - root - INFO - ************* SearchCustomerByName_005 **********
+2023-06-22 09:41:11,586 - root - INFO - ************* SearchCustomerByName_005 **********
+2023-06-22 09:41:11,586 - root - INFO - ************* SearchCustomerByName_005 **********
+2023-06-22 09:41:11,586 - root - INFO - ************* SearchCustomerByName_005 **********
+2023-06-22 09:41:18,618 - root - INFO - ************* Login succesful **********
+2023-06-22 09:41:18,618 - root - INFO - ************* Login succesful **********
+2023-06-22 09:41:18,618 - root - INFO - ************* Login succesful **********
+2023-06-22 09:41:18,618 - root - INFO - ************* Login succesful **********
+2023-06-22 09:41:18,618 - root - INFO - ************* Login succesful **********
+2023-06-22 09:41:18,618 - root - INFO - ******* Starting Search Customer By Name **********
+2023-06-22 09:41:18,618 - root - INFO - ******* Starting Search Customer By Name **********
+2023-06-22 09:41:18,618 - root - INFO - ******* Starting Search Customer By Name **********
+2023-06-22 09:41:18,618 - root - INFO - ******* Starting Search Customer By Name **********
+2023-06-22 09:41:18,618 - root - INFO - ******* Starting Search Customer By Name **********
+2023-06-22 09:41:22,282 - root - INFO - ************* searching customer by Name **********
+2023-06-22 09:41:22,282 - root - INFO - ************* searching customer by Name **********
+2023-06-22 09:41:22,282 - root - INFO - ************* searching customer by Name **********
+2023-06-22 09:41:22,282 - root - INFO - ************* searching customer by Name **********
+2023-06-22 09:41:22,282 - root - INFO - ************* searching customer by Name **********
+2023-06-22 09:41:27,654 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-06-22 09:41:27,654 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-06-22 09:41:27,654 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-06-22 09:41:27,654 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-06-22 09:41:27,654 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-06-22 12:56:17,268 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 12:56:17,268 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 12:56:17,268 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 12:56:17,268 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 12:56:17,268 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-22 12:56:24,572 - root - INFO - **************Login Successful******************
+2023-06-22 12:56:24,572 - root - INFO - **************Login Successful******************
+2023-06-22 12:56:24,572 - root - INFO - **************Login Successful******************
+2023-06-22 12:56:24,572 - root - INFO - **************Login Successful******************
+2023-06-22 12:56:24,572 - root - INFO - **************Login Successful******************
+2023-06-22 12:56:24,572 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 12:56:24,572 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 12:56:24,572 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 12:56:24,572 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 12:56:24,572 - root - INFO - ************Starting Add Customer Test****************
+2023-06-22 12:56:28,236 - root - INFO - ************Providing customer info**************
+2023-06-22 12:56:28,236 - root - INFO - ************Providing customer info**************
+2023-06-22 12:56:28,236 - root - INFO - ************Providing customer info**************
+2023-06-22 12:56:28,236 - root - INFO - ************Providing customer info**************
+2023-06-22 12:56:28,236 - root - INFO - ************Providing customer info**************
+2023-06-22 12:56:37,248 - root - INFO - *************Saving customer info****************
+2023-06-22 12:56:37,248 - root - INFO - *************Saving customer info****************
+2023-06-22 12:56:37,248 - root - INFO - *************Saving customer info****************
+2023-06-22 12:56:37,248 - root - INFO - *************Saving customer info****************
+2023-06-22 12:56:37,248 - root - INFO - *************Saving customer info****************
+2023-06-22 12:56:37,249 - root - INFO - **************Add customer validation started**************
+2023-06-22 12:56:37,249 - root - INFO - **************Add customer validation started**************
+2023-06-22 12:56:37,249 - root - INFO - **************Add customer validation started**************
+2023-06-22 12:56:37,249 - root - INFO - **************Add customer validation started**************
+2023-06-22 12:56:37,249 - root - INFO - **************Add customer validation started**************
+2023-06-22 12:56:37,288 - root - INFO - *********Add customer Test Passed***********
+2023-06-22 12:56:37,288 - root - INFO - *********Add customer Test Passed***********
+2023-06-22 12:56:37,288 - root - INFO - *********Add customer Test Passed***********
+2023-06-22 12:56:37,288 - root - INFO - *********Add customer Test Passed***********
+2023-06-22 12:56:37,288 - root - INFO - *********Add customer Test Passed***********
+2023-06-22 12:56:37,423 - root - INFO - ************Ending Home Page Title Test************
+2023-06-22 12:56:37,423 - root - INFO - ************Ending Home Page Title Test************
+2023-06-22 12:56:37,423 - root - INFO - ************Ending Home Page Title Test************
+2023-06-22 12:56:37,423 - root - INFO - ************Ending Home Page Title Test************
+2023-06-22 12:56:37,423 - root - INFO - ************Ending Home Page Title Test************
+2023-06-22 12:56:39,196 - root - INFO - *************Test_001_Login***************
+2023-06-22 12:56:39,196 - root - INFO - *************Test_001_Login***************
+2023-06-22 12:56:39,196 - root - INFO - *************Test_001_Login***************
+2023-06-22 12:56:39,196 - root - INFO - *************Test_001_Login***************
+2023-06-22 12:56:39,196 - root - INFO - *************Test_001_Login***************
+2023-06-22 12:56:39,196 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-22 12:56:39,196 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-22 12:56:39,196 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-22 12:56:39,196 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-22 12:56:39,196 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-22 12:56:42,791 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-22 12:56:42,791 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-22 12:56:42,791 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-22 12:56:42,791 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-22 12:56:42,791 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-22 12:56:44,487 - root - INFO - ***********Verifying Login test***************
+2023-06-22 12:56:44,487 - root - INFO - ***********Verifying Login test***************
+2023-06-22 12:56:44,487 - root - INFO - ***********Verifying Login test***************
+2023-06-22 12:56:44,487 - root - INFO - ***********Verifying Login test***************
+2023-06-22 12:56:44,487 - root - INFO - ***********Verifying Login test***************
+2023-06-22 12:56:53,041 - root - INFO - ***********Login test is passed***************
+2023-06-22 12:56:53,041 - root - INFO - ***********Login test is passed***************
+2023-06-22 12:56:53,041 - root - INFO - ***********Login test is passed***************
+2023-06-22 12:56:53,041 - root - INFO - ***********Login test is passed***************
+2023-06-22 12:56:53,041 - root - INFO - ***********Login test is passed***************
+2023-06-22 12:56:54,789 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2023-06-22 12:56:54,789 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2023-06-22 12:56:54,789 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2023-06-22 12:56:54,789 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2023-06-22 12:56:54,789 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2023-06-22 12:56:54,789 - root - INFO - ******* Starting Login DDT Test **********
+2023-06-22 12:56:54,789 - root - INFO - ******* Starting Login DDT Test **********
+2023-06-22 12:56:54,789 - root - INFO - ******* Starting Login DDT Test **********
+2023-06-22 12:56:54,789 - root - INFO - ******* Starting Login DDT Test **********
+2023-06-22 12:56:54,789 - root - INFO - ******* Starting Login DDT Test **********
+2023-06-22 12:57:09,168 - root - INFO - **** passed ****
+2023-06-22 12:57:09,168 - root - INFO - **** passed ****
+2023-06-22 12:57:09,168 - root - INFO - **** passed ****
+2023-06-22 12:57:09,168 - root - INFO - **** passed ****
+2023-06-22 12:57:09,168 - root - INFO - **** passed ****
+2023-06-22 12:57:16,646 - root - INFO - **** passed ****
+2023-06-22 12:57:16,646 - root - INFO - **** passed ****
+2023-06-22 12:57:16,646 - root - INFO - **** passed ****
+2023-06-22 12:57:16,646 - root - INFO - **** passed ****
+2023-06-22 12:57:16,646 - root - INFO - **** passed ****
+2023-06-22 12:57:22,955 - root - INFO - **** passed ****
+2023-06-22 12:57:22,955 - root - INFO - **** passed ****
+2023-06-22 12:57:22,955 - root - INFO - **** passed ****
+2023-06-22 12:57:22,955 - root - INFO - **** passed ****
+2023-06-22 12:57:22,955 - root - INFO - **** passed ****
+2023-06-22 12:57:29,683 - root - INFO - **** passed ****
+2023-06-22 12:57:29,683 - root - INFO - **** passed ****
+2023-06-22 12:57:29,683 - root - INFO - **** passed ****
+2023-06-22 12:57:29,683 - root - INFO - **** passed ****
+2023-06-22 12:57:29,683 - root - INFO - **** passed ****
+2023-06-22 12:57:29,683 - root - INFO - ******* DDT Login test passed **********
+2023-06-22 12:57:29,683 - root - INFO - ******* DDT Login test passed **********
+2023-06-22 12:57:29,683 - root - INFO - ******* DDT Login test passed **********
+2023-06-22 12:57:29,683 - root - INFO - ******* DDT Login test passed **********
+2023-06-22 12:57:29,683 - root - INFO - ******* DDT Login test passed **********
+2023-06-22 12:57:29,811 - root - INFO - ******* End of Login DDT Test **********
+2023-06-22 12:57:29,811 - root - INFO - ******* End of Login DDT Test **********
+2023-06-22 12:57:29,811 - root - INFO - ******* End of Login DDT Test **********
+2023-06-22 12:57:29,811 - root - INFO - ******* End of Login DDT Test **********
+2023-06-22 12:57:29,811 - root - INFO - ******* End of Login DDT Test **********
+2023-06-22 12:57:29,811 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-06-22 12:57:29,811 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-06-22 12:57:29,811 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-06-22 12:57:29,811 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-06-22 12:57:29,811 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-06-22 12:57:31,503 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-06-22 12:57:31,503 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-06-22 12:57:31,503 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-06-22 12:57:31,503 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-06-22 12:57:31,503 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-06-22 12:57:40,047 - root - INFO - ************* Login succesful **********
+2023-06-22 12:57:40,047 - root - INFO - ************* Login succesful **********
+2023-06-22 12:57:40,047 - root - INFO - ************* Login succesful **********
+2023-06-22 12:57:40,047 - root - INFO - ************* Login succesful **********
+2023-06-22 12:57:40,047 - root - INFO - ************* Login succesful **********
+2023-06-22 12:57:40,047 - root - INFO - ******* Starting Search Customer By Email **********
+2023-06-22 12:57:40,047 - root - INFO - ******* Starting Search Customer By Email **********
+2023-06-22 12:57:40,047 - root - INFO - ******* Starting Search Customer By Email **********
+2023-06-22 12:57:40,047 - root - INFO - ******* Starting Search Customer By Email **********
+2023-06-22 12:57:40,047 - root - INFO - ******* Starting Search Customer By Email **********
+2023-06-22 12:57:41,766 - root - INFO - ************* searching customer by emailID **********
+2023-06-22 12:57:41,766 - root - INFO - ************* searching customer by emailID **********
+2023-06-22 12:57:41,766 - root - INFO - ************* searching customer by emailID **********
+2023-06-22 12:57:41,766 - root - INFO - ************* searching customer by emailID **********
+2023-06-22 12:57:41,766 - root - INFO - ************* searching customer by emailID **********
+2023-06-22 12:57:47,291 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-06-22 12:57:47,291 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-06-22 12:57:47,291 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-06-22 12:57:47,291 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-06-22 12:57:47,291 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-06-22 12:57:49,026 - root - INFO - ************* SearchCustomerByName_005 **********
+2023-06-22 12:57:49,026 - root - INFO - ************* SearchCustomerByName_005 **********
+2023-06-22 12:57:49,026 - root - INFO - ************* SearchCustomerByName_005 **********
+2023-06-22 12:57:49,026 - root - INFO - ************* SearchCustomerByName_005 **********
+2023-06-22 12:57:49,026 - root - INFO - ************* SearchCustomerByName_005 **********
+2023-06-22 12:57:59,401 - root - INFO - ************* Login succesful **********
+2023-06-22 12:57:59,401 - root - INFO - ************* Login succesful **********
+2023-06-22 12:57:59,401 - root - INFO - ************* Login succesful **********
+2023-06-22 12:57:59,401 - root - INFO - ************* Login succesful **********
+2023-06-22 12:57:59,401 - root - INFO - ************* Login succesful **********
+2023-06-22 12:57:59,401 - root - INFO - ******* Starting Search Customer By Name **********
+2023-06-22 12:57:59,401 - root - INFO - ******* Starting Search Customer By Name **********
+2023-06-22 12:57:59,401 - root - INFO - ******* Starting Search Customer By Name **********
+2023-06-22 12:57:59,401 - root - INFO - ******* Starting Search Customer By Name **********
+2023-06-22 12:57:59,401 - root - INFO - ******* Starting Search Customer By Name **********
+2023-06-22 12:58:03,932 - root - INFO - ************* searching customer by Name **********
+2023-06-22 12:58:03,932 - root - INFO - ************* searching customer by Name **********
+2023-06-22 12:58:03,932 - root - INFO - ************* searching customer by Name **********
+2023-06-22 12:58:03,932 - root - INFO - ************* searching customer by Name **********
+2023-06-22 12:58:03,932 - root - INFO - ************* searching customer by Name **********
+2023-06-22 12:58:09,507 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-06-22 12:58:09,507 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-06-22 12:58:09,507 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-06-22 12:58:09,507 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-06-22 12:58:09,507 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-06-23 07:21:57,405 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-23 07:21:57,405 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-23 07:21:57,405 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-23 07:21:57,405 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-23 07:21:57,405 - root - INFO - ***********Test_003_AddCustomer*************
+2023-06-23 07:22:04,505 - root - INFO - **************Login Successful******************
+2023-06-23 07:22:04,505 - root - INFO - **************Login Successful******************
+2023-06-23 07:22:04,505 - root - INFO - **************Login Successful******************
+2023-06-23 07:22:04,505 - root - INFO - **************Login Successful******************
+2023-06-23 07:22:04,505 - root - INFO - **************Login Successful******************
+2023-06-23 07:22:04,505 - root - INFO - ************Starting Add Customer Test****************
+2023-06-23 07:22:04,505 - root - INFO - ************Starting Add Customer Test****************
+2023-06-23 07:22:04,505 - root - INFO - ************Starting Add Customer Test****************
+2023-06-23 07:22:04,505 - root - INFO - ************Starting Add Customer Test****************
+2023-06-23 07:22:04,505 - root - INFO - ************Starting Add Customer Test****************
+2023-06-23 07:22:07,540 - root - INFO - ************Providing customer info**************
+2023-06-23 07:22:07,540 - root - INFO - ************Providing customer info**************
+2023-06-23 07:22:07,540 - root - INFO - ************Providing customer info**************
+2023-06-23 07:22:07,540 - root - INFO - ************Providing customer info**************
+2023-06-23 07:22:07,540 - root - INFO - ************Providing customer info**************
+2023-06-23 07:22:15,655 - root - INFO - *************Saving customer info****************
+2023-06-23 07:22:15,655 - root - INFO - *************Saving customer info****************
+2023-06-23 07:22:15,655 - root - INFO - *************Saving customer info****************
+2023-06-23 07:22:15,655 - root - INFO - *************Saving customer info****************
+2023-06-23 07:22:15,655 - root - INFO - *************Saving customer info****************
+2023-06-23 07:22:15,657 - root - INFO - **************Add customer validation started**************
+2023-06-23 07:22:15,657 - root - INFO - **************Add customer validation started**************
+2023-06-23 07:22:15,657 - root - INFO - **************Add customer validation started**************
+2023-06-23 07:22:15,657 - root - INFO - **************Add customer validation started**************
+2023-06-23 07:22:15,657 - root - INFO - **************Add customer validation started**************
+2023-06-23 07:22:15,682 - root - INFO - *********Add customer Test Passed***********
+2023-06-23 07:22:15,682 - root - INFO - *********Add customer Test Passed***********
+2023-06-23 07:22:15,682 - root - INFO - *********Add customer Test Passed***********
+2023-06-23 07:22:15,682 - root - INFO - *********Add customer Test Passed***********
+2023-06-23 07:22:15,682 - root - INFO - *********Add customer Test Passed***********
+2023-06-23 07:22:15,804 - root - INFO - ************Ending Home Page Title Test************
+2023-06-23 07:22:15,804 - root - INFO - ************Ending Home Page Title Test************
+2023-06-23 07:22:15,804 - root - INFO - ************Ending Home Page Title Test************
+2023-06-23 07:22:15,804 - root - INFO - ************Ending Home Page Title Test************
+2023-06-23 07:22:15,804 - root - INFO - ************Ending Home Page Title Test************
+2023-06-23 07:22:17,184 - root - INFO - *************Test_001_Login***************
+2023-06-23 07:22:17,184 - root - INFO - *************Test_001_Login***************
+2023-06-23 07:22:17,184 - root - INFO - *************Test_001_Login***************
+2023-06-23 07:22:17,184 - root - INFO - *************Test_001_Login***************
+2023-06-23 07:22:17,184 - root - INFO - *************Test_001_Login***************
+2023-06-23 07:22:17,184 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-23 07:22:17,184 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-23 07:22:17,184 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-23 07:22:17,184 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-23 07:22:17,184 - root - INFO - *****************Verifying Home Page Title*******************
+2023-06-23 07:22:19,932 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-23 07:22:19,932 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-23 07:22:19,932 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-23 07:22:19,932 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-23 07:22:19,932 - root - INFO - ***********Home Page Title test is passed***************
+2023-06-23 07:22:21,299 - root - INFO - ***********Verifying Login test***************
+2023-06-23 07:22:21,299 - root - INFO - ***********Verifying Login test***************
+2023-06-23 07:22:21,299 - root - INFO - ***********Verifying Login test***************
+2023-06-23 07:22:21,299 - root - INFO - ***********Verifying Login test***************
+2023-06-23 07:22:21,299 - root - INFO - ***********Verifying Login test***************
+2023-06-23 07:22:27,839 - root - INFO - ***********Login test is passed***************
+2023-06-23 07:22:27,839 - root - INFO - ***********Login test is passed***************
+2023-06-23 07:22:27,839 - root - INFO - ***********Login test is passed***************
+2023-06-23 07:22:27,839 - root - INFO - ***********Login test is passed***************
+2023-06-23 07:22:27,839 - root - INFO - ***********Login test is passed***************
+2023-06-23 07:22:29,176 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2023-06-23 07:22:29,176 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2023-06-23 07:22:29,176 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2023-06-23 07:22:29,176 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2023-06-23 07:22:29,176 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2023-06-23 07:22:29,177 - root - INFO - ******* Starting Login DDT Test **********
+2023-06-23 07:22:29,177 - root - INFO - ******* Starting Login DDT Test **********
+2023-06-23 07:22:29,177 - root - INFO - ******* Starting Login DDT Test **********
+2023-06-23 07:22:29,177 - root - INFO - ******* Starting Login DDT Test **********
+2023-06-23 07:22:29,177 - root - INFO - ******* Starting Login DDT Test **********
+2023-06-23 07:22:40,994 - root - INFO - **** passed ****
+2023-06-23 07:22:40,994 - root - INFO - **** passed ****
+2023-06-23 07:22:40,994 - root - INFO - **** passed ****
+2023-06-23 07:22:40,994 - root - INFO - **** passed ****
+2023-06-23 07:22:40,994 - root - INFO - **** passed ****
+2023-06-23 07:22:48,129 - root - INFO - **** passed ****
+2023-06-23 07:22:48,129 - root - INFO - **** passed ****
+2023-06-23 07:22:48,129 - root - INFO - **** passed ****
+2023-06-23 07:22:48,129 - root - INFO - **** passed ****
+2023-06-23 07:22:48,129 - root - INFO - **** passed ****
+2023-06-23 07:22:53,697 - root - INFO - **** passed ****
+2023-06-23 07:22:53,697 - root - INFO - **** passed ****
+2023-06-23 07:22:53,697 - root - INFO - **** passed ****
+2023-06-23 07:22:53,697 - root - INFO - **** passed ****
+2023-06-23 07:22:53,697 - root - INFO - **** passed ****
+2023-06-23 07:22:59,543 - root - INFO - **** passed ****
+2023-06-23 07:22:59,543 - root - INFO - **** passed ****
+2023-06-23 07:22:59,543 - root - INFO - **** passed ****
+2023-06-23 07:22:59,543 - root - INFO - **** passed ****
+2023-06-23 07:22:59,543 - root - INFO - **** passed ****
+2023-06-23 07:22:59,543 - root - INFO - ******* DDT Login test passed **********
+2023-06-23 07:22:59,543 - root - INFO - ******* DDT Login test passed **********
+2023-06-23 07:22:59,543 - root - INFO - ******* DDT Login test passed **********
+2023-06-23 07:22:59,543 - root - INFO - ******* DDT Login test passed **********
+2023-06-23 07:22:59,543 - root - INFO - ******* DDT Login test passed **********
+2023-06-23 07:22:59,641 - root - INFO - ******* End of Login DDT Test **********
+2023-06-23 07:22:59,641 - root - INFO - ******* End of Login DDT Test **********
+2023-06-23 07:22:59,641 - root - INFO - ******* End of Login DDT Test **********
+2023-06-23 07:22:59,641 - root - INFO - ******* End of Login DDT Test **********
+2023-06-23 07:22:59,641 - root - INFO - ******* End of Login DDT Test **********
+2023-06-23 07:22:59,641 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-06-23 07:22:59,641 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-06-23 07:22:59,641 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-06-23 07:22:59,641 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-06-23 07:22:59,641 - root - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2023-06-23 07:23:01,011 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-06-23 07:23:01,011 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-06-23 07:23:01,011 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-06-23 07:23:01,011 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-06-23 07:23:01,011 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2023-06-23 07:23:08,318 - root - INFO - ************* Login succesful **********
+2023-06-23 07:23:08,318 - root - INFO - ************* Login succesful **********
+2023-06-23 07:23:08,318 - root - INFO - ************* Login succesful **********
+2023-06-23 07:23:08,318 - root - INFO - ************* Login succesful **********
+2023-06-23 07:23:08,318 - root - INFO - ************* Login succesful **********
+2023-06-23 07:23:08,319 - root - INFO - ******* Starting Search Customer By Email **********
+2023-06-23 07:23:08,319 - root - INFO - ******* Starting Search Customer By Email **********
+2023-06-23 07:23:08,319 - root - INFO - ******* Starting Search Customer By Email **********
+2023-06-23 07:23:08,319 - root - INFO - ******* Starting Search Customer By Email **********
+2023-06-23 07:23:08,319 - root - INFO - ******* Starting Search Customer By Email **********
+2023-06-23 07:23:09,940 - root - INFO - ************* searching customer by emailID **********
+2023-06-23 07:23:09,940 - root - INFO - ************* searching customer by emailID **********
+2023-06-23 07:23:09,940 - root - INFO - ************* searching customer by emailID **********
+2023-06-23 07:23:09,940 - root - INFO - ************* searching customer by emailID **********
+2023-06-23 07:23:09,940 - root - INFO - ************* searching customer by emailID **********
+2023-06-23 07:23:15,202 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-06-23 07:23:15,202 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-06-23 07:23:15,202 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-06-23 07:23:15,202 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-06-23 07:23:15,202 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2023-06-23 07:23:16,579 - root - INFO - ************* SearchCustomerByName_005 **********
+2023-06-23 07:23:16,579 - root - INFO - ************* SearchCustomerByName_005 **********
+2023-06-23 07:23:16,579 - root - INFO - ************* SearchCustomerByName_005 **********
+2023-06-23 07:23:16,579 - root - INFO - ************* SearchCustomerByName_005 **********
+2023-06-23 07:23:16,579 - root - INFO - ************* SearchCustomerByName_005 **********
+2023-06-23 07:23:23,020 - root - INFO - ************* Login succesful **********
+2023-06-23 07:23:23,020 - root - INFO - ************* Login succesful **********
+2023-06-23 07:23:23,020 - root - INFO - ************* Login succesful **********
+2023-06-23 07:23:23,020 - root - INFO - ************* Login succesful **********
+2023-06-23 07:23:23,020 - root - INFO - ************* Login succesful **********
+2023-06-23 07:23:23,020 - root - INFO - ******* Starting Search Customer By Name **********
+2023-06-23 07:23:23,020 - root - INFO - ******* Starting Search Customer By Name **********
+2023-06-23 07:23:23,020 - root - INFO - ******* Starting Search Customer By Name **********
+2023-06-23 07:23:23,020 - root - INFO - ******* Starting Search Customer By Name **********
+2023-06-23 07:23:23,020 - root - INFO - ******* Starting Search Customer By Name **********
+2023-06-23 07:23:26,539 - root - INFO - ************* searching customer by Name **********
+2023-06-23 07:23:26,539 - root - INFO - ************* searching customer by Name **********
+2023-06-23 07:23:26,539 - root - INFO - ************* searching customer by Name **********
+2023-06-23 07:23:26,539 - root - INFO - ************* searching customer by Name **********
+2023-06-23 07:23:26,539 - root - INFO - ************* searching customer by Name **********
+2023-06-23 07:23:31,879 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-06-23 07:23:31,879 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-06-23 07:23:31,879 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-06-23 07:23:31,879 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-06-23 07:23:31,879 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
