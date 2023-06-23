@@ -25,12 +25,12 @@ class Test_006_SearchOrder:
         self.lp.clickLogin()
         self.logger.info("**************Login Successful******************")
 
-        self.logger.info("******* Starting Search Orders By Order Status **********")
+        self.logger.info("******* Starting Search Orders By Email **********")
         searchorder = SearchOrder(self.driver)
         searchorder.clickOnSalesMenu()
         searchorder.clickOnOrderMenu()
 
-        self.logger.info("************* searching order by order status **********")
+        self.logger.info("************* searching order by email **********")
         searchorder.setEmail("james_pan@nopCommerce.com")
         searchorder.clickSearch()
         time.sleep(5)
